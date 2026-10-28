@@ -1,0 +1,14 @@
+# Local Python environment and notebook caches
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local microdata and generated datasets
+data/raw/
+data/processed/
+
+# Files generated when running exploration and model experiments
+informes/resultados_exploracion/
+informes/resultados_clustering/
+informes/resultados_clasificacion/
